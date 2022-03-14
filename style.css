@@ -19,7 +19,7 @@ html {
 a {
   text-decoration: none;
   color: #000000;
-  transition: 0.5s;
+  transition: 0.8s;
   cursor: pointer;
 }
 
@@ -73,7 +73,7 @@ body {
   font-family: Quicksand;
   font-size: 36px;
   text-decoration: none;
-  transition: 0.3s;
+  transition: 0.8s;
   color: #000000;
 }
 
