@@ -17,3 +17,15 @@
 ## About me:
 >I am 32 years. I am very inquisitive and every day I study and learn something new for myself. It makes me happy. 
  I set myself the goal of becoming a Frontend developer and step by step is getting closer to its implementation.
+
+
+
+## Skills
+* HTML
+* CSS
+* JavaScript (Basic knowledge) 
+* Git 
+* MySQL (Basic knowledge)
+* Windows OS
+* Figma(for web development)
+* VSCode
