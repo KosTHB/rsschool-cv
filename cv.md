@@ -57,3 +57,13 @@ function towelSort(matrix) {
 
 
 *********
+
+
+## Experience:
+__Projects:__
+* tic-tac-toe <https://rolling-scopes-school.github.io/kosthb-JSFEPRESCHOOL/tic-tac-toe/>
+* audio player <https://rolling-scopes-school.github.io/kosthb-JSFEPRESCHOOL/>
+* random quotes <https://rolling-scopes-school.github.io/kosthb-JSFEPRESCHOOL/random-jokes/>
+* portfolio <https://rolling-scopes-school.github.io/kosthb-JSFEPRESCHOOL/portfolio/>
+
+
