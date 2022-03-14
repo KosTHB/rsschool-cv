@@ -66,4 +66,19 @@ __Projects:__
 * random quotes <https://rolling-scopes-school.github.io/kosthb-JSFEPRESCHOOL/random-jokes/>
 * portfolio <https://rolling-scopes-school.github.io/kosthb-JSFEPRESCHOOL/portfolio/>
 
+## Education:
+
+Samara Academy of Culture and art
+
+* Courses:
+    * CS50
+    * SoloLearn
+    * RS-School JS Front-end development Stage 0
+
+*********
+
+
+## English:
+A2 (*School, Academy, Duolingo*)
+
 
